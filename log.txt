@@ -151,3 +151,28 @@ Friday (7/5)
 Meeting: No meeting for 4th of July weekend
 
 Day's Work: None
+
+Monday (7/8)
+
+Meeting: Reported on GAN progress. We talked about the difference between discriminators
+and generators. Talked about how to switch tensorflow from CPU to GPU in order to lower
+the amount of time needed to train the GAN.
+
+Day's Work: Worked on GAN and got it to train. Accuracy was 86% but it took over two hours
+to train so I do not think it was trained on the GPU. I need to find information on
+switch to the GPU from the CPU.
+
+Tuesday (7/9)
+
+Meeting: Talked about switch from CPU to GPU and also about accuracy of the network. We decided
+that I should re-train the network even after having a network trained. Will report back on
+how fast the network trains.
+
+Day's Work: Not much. Studying for midterms.
+
+Wednesday (7/10)
+
+Meeting: Dr. Liu instructed us to read the technical journal about the x-ray database.
+We spoke about hamids progress and he too was stuck using the CPU because it took forever to train.
+
+Day's Work: 
