@@ -175,4 +175,23 @@ Wednesday (7/10)
 Meeting: Dr. Liu instructed us to read the technical journal about the x-ray database.
 We spoke about hamids progress and he too was stuck using the CPU because it took forever to train.
 
-Day's Work: 
+Day's Work: Read chapter 3, the section on using pretrained networks in order to increase accuracy.
+Also read through the journal article associateed with the xray dataset.
+
+Thursday (7/11)
+
+Meeting: We talked about where the pretrained network would fit into our overall goal. Also,
+we created a list of things that need to be done. We are going to have our first meeting
+including the High School interns on Monday and wanted to have some tasks that they could help
+us with. We also talked about the quality of the images in the dataset. They are not all
+high quality so we must decide if we would like to proceed with a lot of data but some of it
+is bad or less data but it is all good.
+
+Day's Work: Looked through dataset to find some images that were bad. Also looking at Age and
+Position that the xray was taken.
+
+Friday (7/12)
+
+Meeting:
+
+Day's Work:
