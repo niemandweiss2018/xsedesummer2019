@@ -192,6 +192,22 @@ Position that the xray was taken.
 
 Friday (7/12)
 
-Meeting:
+Meeting: We talked about getting ready for the first meeting with the high school interns on monday.
+Hamid and I need to finalize the list so we are ready to divide up the tasks.
 
-Day's Work:
+Day's Work: I searched around to find some different types of GAN models that we could
+use on our dataset. I found one called StarGAN. I want to read the paper on this model
+in order to better understand it.
+
+Monday (7/15)
+
+Meeting: First meeting with the high-school interns. We talked about a couple of different tasks
+to help us get the model off the ground. I explained what I knew about the StarGAN
+model and asked Dr. Liu if we should use it. Also, we talked about getting ready to
+start our paper, poster and presentation.
+
+Day's Work: Read through the abstract of the StarGAN paper. Seems like it would be a
+good idea to try applying the information in the journal article to our model. Results
+were very good in the paper. I also starting skimming through a book on radiology
+in order to allow me to go through and start picking out poor images in the dataset.
+
