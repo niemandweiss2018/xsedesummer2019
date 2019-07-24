@@ -151,3 +151,63 @@ Friday (7/5)
 Meeting: No meeting for 4th of July weekend
 
 Day's Work: None
+
+Monday (7/8)
+
+Meeting: Reported on GAN progress. We talked about the difference between discriminators
+and generators. Talked about how to switch tensorflow from CPU to GPU in order to lower
+the amount of time needed to train the GAN.
+
+Day's Work: Worked on GAN and got it to train. Accuracy was 86% but it took over two hours
+to train so I do not think it was trained on the GPU. I need to find information on
+switch to the GPU from the CPU.
+
+Tuesday (7/9)
+
+Meeting: Talked about switch from CPU to GPU and also about accuracy of the network. We decided
+that I should re-train the network even after having a network trained. Will report back on
+how fast the network trains.
+
+Day's Work: Not much. Studying for midterms.
+
+Wednesday (7/10)
+
+Meeting: Dr. Liu instructed us to read the technical journal about the x-ray database.
+We spoke about hamids progress and he too was stuck using the CPU because it took forever to train.
+
+Day's Work: Read chapter 3, the section on using pretrained networks in order to increase accuracy.
+Also read through the journal article associateed with the xray dataset.
+
+Thursday (7/11)
+
+Meeting: We talked about where the pretrained network would fit into our overall goal. Also,
+we created a list of things that need to be done. We are going to have our first meeting
+including the High School interns on Monday and wanted to have some tasks that they could help
+us with. We also talked about the quality of the images in the dataset. They are not all
+high quality so we must decide if we would like to proceed with a lot of data but some of it
+is bad or less data but it is all good.
+
+Day's Work: Looked through dataset to find some images that were bad. Also looking at Age and
+Position that the xray was taken.
+
+Friday (7/12)
+
+Meeting: We talked about getting ready for the first meeting with the high school interns on monday.
+Hamid and I need to finalize the list so we are ready to divide up the tasks.
+
+Day's Work: I searched around to find some different types of GAN models that we could
+use on our dataset. I found one called StarGAN. I want to read the paper on this model
+in order to better understand it.
+
+Monday (7/15)
+
+Meeting: First meeting with the high-school interns. We talked about a couple of different tasks
+to help us get the model off the ground. I explained what I knew about the StarGAN
+model and asked Dr. Liu if we should use it. Also, we talked about getting ready to
+start our paper, poster and presentation.
+
+Day's Work: Read through the abstract of the StarGAN paper. Seems like it would be a
+good idea to try applying the information in the journal article to our model. Results
+were very good in the paper. I also starting skimming through a book on radiology
+in order to allow me to go through and start picking out poor images in the dataset.
+
